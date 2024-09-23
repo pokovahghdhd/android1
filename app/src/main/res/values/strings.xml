@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndyFire</string>
+    <string name="Button_text">Войти</string>
+    <string name="Button2_text">Зарегистрироваться</string>
+</resources>
